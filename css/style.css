@@ -36,7 +36,7 @@ html, body {
 
 /* additional sections */
 #home {
-  background: url(../images/home.jpg) no-repeat center center fixed; 
+  background: url(../images/home.JPG) no-repeat center center fixed; 
   display: table;
   height: 25%;
   position: relative;
@@ -48,7 +48,7 @@ html, body {
 }
 
 #home2 {
-  background: url(../images/home.jpg) no-repeat center center fixed; 
+  background: url(../images/home.JPG) no-repeat center center fixed; 
   display: table;
   height: 25%;
   position: relative;
@@ -60,7 +60,7 @@ html, body {
 }
 
 #home3 {
-  background: url(../images/home.jpg) no-repeat center center fixed; 
+  background: url(../images/home.JPG) no-repeat center center fixed; 
   display: table;
   height: 15%;
   position: relative;
