@@ -96,7 +96,7 @@
         <a href="http://devonv.github.io/thesisproject/home.html">Home</a> l 
         <a href="http://devonv.github.io/thesisproject/family.html">Family</a> l 
         <a href="http://devonv.github.io/thesisproject/marriage.html">Marriage</a> l 
-        <a href="http://devonv.github.io/thesisproject/food.html">Food</a> l 
+        <a href="http://devonv.github.io/thesisproject/craft.html">Craft</a> l 
         <a href="http://devonv.github.io/thesisproject/everything.html">Everything</a> l 
         <a href="http://devonv.github.io/thesisproject/additional.html">Additional Filters</a></p>
     </div>
