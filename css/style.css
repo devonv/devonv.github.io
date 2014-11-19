@@ -93,6 +93,12 @@ html, body {
   width: 140px;
 }
 
+
+#poemtitle {
+    text-align: center;
+}
+
+
 #information {
   background: url(../images/estate.jpg) no-repeat center center fixed; 
   display: table;
