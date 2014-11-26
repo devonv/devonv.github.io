@@ -74,6 +74,7 @@ code {
 
     #main{
         padding-bottom: 10px;
+        text-align: center;
     }
     #main h1{
         font-size: 140%;
@@ -90,6 +91,7 @@ code {
     #main p{
         padding-bottom: 25px;
         font-size: 150%;
+        text-align: center;
     }
 
     #what {

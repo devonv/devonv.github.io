@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <quilts>
     <story>
-        <title>Sally Jones - 1913</title>
+        <title>Sally Jones</title>
         <anchor>1</anchor>
         <type>marriage</type>
         <patterns>dresden plate, village green, pot of flowers, lone star, ocean wave, nine diamonds, bowtie</patterns>
+        <date>1913</date>
         <description>
             <p>As a child in the 1910’s, Sally spent a lot of time “dabbling around in the rag bag” looking for fabric scraps to make doll clothes from. Although she sometimes failed to get anything made, for Sally, the fun was in trying.</p>
                 
@@ -20,10 +21,11 @@
     </story>
 
     <story>
-        <title>Mary Smith - 1897</title>
+        <title>Mary Smith</title>
         <anchor>2</anchor>
         <type>craft</type>
         <patterns>trip around the world, flower pattern, sunbonnet sue</patterns>
+        <date>1897</date>
         <description><p>Mary was born in 1897 and married in 1915. She had five children. Early in her marriage, Mary helped her mother in law make a quilt in the trip around the world pattern.</p>
             
            <p> The first quilt Mary made by herself was a heavy quilt constructed from old woolens and tacked together, which she and her husband used to keep warm as newlyweds in their drafty farm house. However, because she often helped her husband out in the fields (“just as a man would”), Mary didn’t begin making a lot of quilts until after her husband died and she learned to quilt (instead of tack) quilts by watching her friends. Even then, she never bought fabric to make quilts; she always used scraps. According to Mary, you shouldn’t mix new and old material, and you shouldn’t use new material to patch a quilt.</p>
@@ -33,10 +35,11 @@
     </story>
     
     <story>
-        <title>Ida Johnson - 1899</title>
+        <title>Ida Johnson</title>
         <anchor>3</anchor>
         <type>home</type>
         <patterns>wedding ring, odd fellar, nine diamonds, wedding ring</patterns>
+        <date>1899</date>
         <description><p>Ida’s mother first taught her to quilt when she was 13 years old. According to Ida, her mother “would never have a machine stitch on a quilt”—she exclusively pieced and quilted by hand. If she needed them, Ida’s mother might make 2-3 quilts a year. Ida remembers that when she was 14, she carried bread and eggs to the grocery store for her neighbor, for which she was paid a nickel. She saved all her nickels until she had 35 cents, and then her mother used that money to buy enough fabric to make her a dress. Some of the fabric scraps from this dress were later integrated into her mother’s quilts.</p>
             
             <p> As an adult woman, Ida began making crazy quilts as a way of using up scraps of fabric that wouldn’t be used any other way. Later, she began to get pattern ideas from her neighbors. Ida used sheep’s wool as batting in her quilts so that they would keep you warm in unheated houses. Quilts were much heavier than blankets; Ida recalls that you “couldn’t get a heavy blanket, a real good warm blanket,” and quilts were the only way to keep warm. In the last few years she quilted, Ida held quilting parties where she would invite neighbor women over to quilt a pieced quilt, and all she'd have to do was "fix them a good lunch.”</p> 
@@ -46,10 +49,11 @@
     </story>
     
     <story>
-        <title>Susan Presley - 1910</title>
+        <title>Susan Presley</title>
         <anchor>4</anchor>
         <type>love</type>
         <patterns></patterns>
+        <date>1910</date>
         <description><p>
             Susan was the third youngest child of twelve, although she notes that only 10 of her brothers and sisters survived to adulthood. During her childhood, Susan remembers her mother drying food, like apples, peaches, corn, and pumpkins, because her family did not have enough money to buy canned goods. Her mother also raised chickens, and cows for milk, which she churned into butter and sold at the “little country store” in order to buy dry goods the family needed. Susan’s mother did make some quilts from old pairs of pants, but she also wove and spun yarn extensively, sometimes selling her woven fabrics to other people.</p>
             
@@ -61,10 +65,11 @@
     </story>
     
     <story>
-        <title>Martha Daniels - 1905</title>
+        <title>Martha Daniels</title>
         <anchor>5</anchor>
         <type>family</type>
         <patterns>wedding ring, lone star, string, nine diamonds</patterns>
+        <date>1905</date>
         <description>
             <p>
                 Martha was born in 1905. When she was a child, Martha’s mother knit and spun yarn, caned chair seats, and quilted. Martha remembers that her mother "would knit daddy socks all the time.” Martha married in 1922, at the age of 16, and had 12 children, although, she notes with sadness, that she gave birth to a set of twins who later contracted whooping cough and died at 15 months.</p>
@@ -75,10 +80,11 @@
     </story>
     
     <story>
-        <title>Joan Beavers - 1912</title>
+        <title>Joan Beavers</title>
         <anchor>6</anchor>
         <type>love</type>
         <patterns>log cabin, lone star, strawberry quilt, dutch boy, dutch girl, small basket</patterns>
+        <date>1912</date>
         <description>
             <p>
                 Joan was born in 1912 in Dickenson county, Virginia. Both of her parents were born in log cabins. Her mother was a prolific quilter, making tacked quilts from linsey material (which has a linen warp and a woolen weft), as well as cotton and percale. Joan also remembers a special quilt made from velvet, which was used on the top of the bed (instead of under a more formal comforter).</p>
@@ -92,10 +98,11 @@
     </story>
     
     <story>
-        <title>Betsy Hart - 1903</title>
+        <title>Betsy Hart</title>
         <anchor>7</anchor>
         <type>family</type>
         <patterns>fools puzzle, lone star, wedding ring, flower garden, dove in the window, whig rose, colonial girl, dutch boy dogwoood, fools puzzle, maple leaf</patterns>
+        <date>1903</date>
         <description>
             <p>Betsy was born in 1903 to a farming family. Growing up, Betsy’s father grew much of the food for their family—she remembers that he even grew his own wheat. When her mother was married, a friend suggested that she try to make two new quilts every winter. There were nine people in Betsy’s family, and her mother had to make enough quilts for each of their beds.</p>
                 
@@ -110,10 +117,11 @@
     </story>
     
     <story>
-        <title>Cathy James - 1907</title>
+        <title>Cathy James</title>
         <anchor>8</anchor>
         <type>marriage</type>
         <patterns>string quilts, nine diamonds, wedding ring, chariot wheel, dresden plate, dutch doll, lone star</patterns>
+        <date>1907</date>
         <description><p>
             Cathy made her first quilt when she was 15 and newly married. Her mother taught her how to piece the quilt in the nine diamond pattern from two old dresses. Growing up, Cathy’s mother made a money by quilting quilts for other people. Cathy also learned to sew by watching her sister-in-law, who was a seamstress. </p>
             
@@ -123,10 +131,11 @@
     </story>
     
     <story>
-        <title>Elizabeth Morris - 1902</title>
+        <title>Elizabeth Morris</title>
         <anchor>9</anchor>
         <type>home</type>
         <patterns>sugar bowl, trip around the world, strip quilt, log cabin, dove at the window, crazy quilt, nine diamonds</patterns>
+        <date>1902</date>
         <description><p>
             Elizabeth’s grandmother had 16 children, and her mother had 14 and raised 9. As a child, Elizabeth’s father worked at an alkali salt plant. Elizabeth learned to quilt from her mother and says, “I just felt I needed to make them.” Growing up, Elizabeth’s family used to sleep under cotton blankets and quilts with one feather bed under you and another on top during the winter.</p>
             
@@ -136,10 +145,11 @@
     </story>
     
     <story>
-        <title>Anita Gilmore - 1905</title>
+        <title>Anita Gilmore</title>
         <anchor>10</anchor>
         <type>home</type>
         <patterns>tags: nine diamonds, churn dasher, bow tie, crazy quilt</patterns>
+        <date>1905</date>
         <description>
             <p>Anita was born in 1905 and married in 1926. She remembers that her grandparents had straw tick mattresses and featherbeds. Anita learned to quilt from her mother and got ideas for quilts out of magazines and from friends. She says that, in her day, quilts were never made from white fabric because it dirties too easily. </p>
                 
@@ -150,10 +160,11 @@
     </story>
     
     <story>
-        <title>Deb Simon - 1902</title>
+        <title>Deb Simon</title>
         <anchor>11</anchor>
         <type>home</type>
         <patterns>nine diamonds, dresden plate, flower garden, irish chain, pineapple</patterns>
+        <date>1902</date>
         <description>
             <p>Deb has two quilts, one hand woven blanket, and two coverlets that she inherited from her grandmother. Deb learned to quilt from her mother; she can remember her mother teaching her to cut the pieces for a nine diamond quilt and the process of tacking it together. Deb’s mother believed that using a sewing machine to piece or quilt lowered the value of the finished quilt “a whole lot.” Later, Deb got ideas for quilts from neighbors or from her family members. She remembers that "some of the poorer families would make quilts from old clothes, but none of my family ever did.”</p>
                 
@@ -164,10 +175,11 @@
     </story>
     
     <story>
-        <title>Lucy Simmons - 1901</title>
+        <title>Lucy Simmons</title>
         <anchor>12</anchor>
         <type>love</type>
         <patterns>trip around the world, old home, lone star, nine diamonds, string quilt, tulip quilt, nine diamonds, crazy quilt</patterns>
+        <date>1901</date>
         <description>
             <p>Lucy Simmons was born in 1901. Her father was a brick mason and also had a farm, where she grew up. As a child, Lucy and her sister slept together in the same bed, and thus needed extra large quilts. She recalls that, "Our beds was the most particular things that we had at home,” and that she was never allowed to play or sit in bed during the day.</p>
                 
@@ -178,10 +190,11 @@
     </story>
     
     <story>
-        <title>Betty Graham - 1915</title>
+        <title>Betty Graham</title>
         <anchor>13</anchor>
         <type>family</type>
         <patterns>pine tree, wedding ring, nine diamonds, strip quilt,</patterns>
+        <date>1915</date>
         <description>
             <p>Betty was born in 1915 and was the oldest of six children. Her maternal grandmother was an American Indian who made many quilts “just to keep warm—not for show.” Betty’s mother taught her to piece quilts when she was ten.</p>
                 
@@ -194,10 +207,11 @@
     </story>
     
     <story>
-        <title>Joan Fisher - 1914</title>
+        <title>Joan Fisher</title>
         <anchor>14</anchor>
         <type>marriage</type>
         <patterns>star quilt, double cross, crazy quilt, frog quilt, trip around the world, spool quilt, josephs coat, odd feller, endless chain, fan quilt, broken dish</patterns>
+        <date>1914</date>
         <description>
             <p>Growing up, Joan’s Father worked in the boiler room of a lumber company and then in the mines. In his later years, he came home to farm the family’s land. Joan’s mother wove beautiful “counterpane” bedspreads and blankets and made quilts. As a child, Joan learned to spin and card wool for her mother to use in weaving. Joan’s mother made each of her grandchildren a quilt when the graduated from high school, and also pieced a quilt top for Jane, but she died before she was able to quilt it. Jane inherited the unfinished top, and also the desire to make quilts as special gifts for close friends.</p>
                 
@@ -208,10 +222,11 @@
     </story>
     
     <story>
-        <title>Myra Prescott - 1920</title>
+        <title>Myra Prescott</title>
         <anchor>15</anchor>
         <type>craft</type>
         <patterns>flower garden, wedding ring</patterns>
+        <date>1920</date>
         <description>
             <p>Myra became interested in quilts after watching her mother and mother-in-law. She says "My mother in law did right much piecing of quilts, and of course I got more interested and more interested in it. Then I just decided if everyone else could quilt, why couldn't I?”</p>
                 
@@ -223,10 +238,11 @@
     </story>
     
     <story>
-        <title>Kenny Jones - 1918</title>
+        <title>Kenny Jones</title>
         <anchor>16</anchor>
         <type>family</type>
         <patterns>log cabin, irish chain, rocky mountain star, lone star, nine diamonds, trip around the world, bow tie, maple leaf</patterns>
+        <date>1918</date>
         <description>
             <p>Growing up, Kenny’s mother sewed for all 11 of her children. He remembers that she would sometimes send himself and his siblings to pick wool off of sheep that had died on an adjacent farm, then spin that wool and use it to knit socks. In addition, his mother also worked in the garden, raised chickens and turkeys, milked cows, and made quilts. </p>
                 
@@ -238,10 +254,11 @@
     </story>
     
     <story>
-        <title>Jennifer Willis - 1904</title>
+        <title>Jennifer Willis</title>
         <anchor>17</anchor>
         <type>craft</type>
         <patterns>nine diamonds, lone star, dresden plate, flower garden, double wedding ring, friendship quilt</patterns>
+        <date>1904</date>
         <description>
             <p>Although both of Jennifer’s mother and bother of her grandmothers quilted, Jennifer did not develop an interesting in learning to quilt herself until she saw quilt patterns in a home magazine and decided it would be a good winter project. Jennifer taught herself to piece on the machine and made about two quilts a year though much of her life. </p>
                 
@@ -255,10 +272,11 @@
     </story>
     
     <story>
-        <title>Josephine Duncan - 1918</title>
+        <title>Josephine Duncan</title>
         <anchor>18</anchor>
         <type>craft</type>
         <patterns>crazy quilts, flower garden, sunflower, bow tie</patterns>
+        <date>1918</date>
         <description>
             <p>Josephine’s mother was an Extension Homemakers Club agent who grew up helping to weave woolen blankets, quilting, and making braided rugs. Her mother believed that keeping kids busy kept them out of trouble and taught Josephine to quilt. When Josephine and each of her sisters were married, her mother made a quilt as a wedding gift. </p>
                 
