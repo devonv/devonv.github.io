@@ -75,7 +75,6 @@
        
             <h2><xsl:value-of select="title"/></h2>
             <p><xsl:value-of select="description"/></p>
-             <p><xsl:value-of select="paragraphs"/></p>
           
           </div>  
       </div>
