@@ -93,7 +93,7 @@
                 <div class="container">
                     <div class="row">
                         <div id="foot">
-                            <p><a href="http://devonv.github.io/thesisproject/index.html">love Page</a> l 
+                            <p><a href="http://devonv.github.io/thesisproject/index.html">Home Page</a> l 
                                 <a href="http://devonv.github.io/thesisproject/love.html">Love</a> l 
                                 <a href="http://devonv.github.io/thesisproject/home.html">Home</a> l 
                                 <a href="http://devonv.github.io/thesisproject/family.html">Family</a> l 
