@@ -100,7 +100,6 @@
         <a href="http://devonv.github.io/thesisproject/marriage.html">Marriage</a> l 
         <a href="http://devonv.github.io/thesisproject/craft.html">craft</a> l 
         <a href="http://devonv.github.io/thesisproject/everything.html">Everything</a> l 
-        <a href="http://devonv.github.io/thesisproject/additional.html">Additional Filters</a></p>
     </div>
   </div>
         </div>
