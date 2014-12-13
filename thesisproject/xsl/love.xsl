@@ -73,8 +73,10 @@
           
           <div id="{$anchor2}">
        
-            <h2><xsl:value-of select="title"/></h2>
-            <p><xsl:value-of select="description"/></p>
+              <h2><xsl:value-of select="title"/></h2>
+              <xsl:for-each select="description/paragraphs/paragraph">
+                  <p><xsl:value-of select="text"/></p>
+              </xsl:for-each>
           
           </div>  
       </div>
