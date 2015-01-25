@@ -47,6 +47,7 @@ a:active {
     padding-left: 1em;
     padding-top: 2em;
     padding-bottom: 2em;
+    margin-bottom: 8em;
     }
 
 #greeting {
@@ -116,6 +117,20 @@ a:active {
     font-family: 'Reenie Beanie', cursive;
     padding-top: 1em;
     }
+
+
+/*about*/
+
+.pagebody-about1 {
+    padding-left: 1em;
+    margin-top: 9em;
+    padding-bottom: 2em;
+    }
+
+#about img {
+    padding-left: 1em;
+    padding-bottom: 2em;
+}
 
 #resumepdf {
     font-family: 'Raleway', sans-serif;
