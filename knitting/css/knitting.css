@@ -36,6 +36,9 @@ h1 {
     font-size: 9em;
     color: #fee2d7;
     font-family: 'Amatic SC', cursive;
+    padding-top: 0em;
+    margin-top: 0em;
+    
 }
 
 
@@ -44,6 +47,14 @@ h2 {
     color: #fee2d7;
     font-size: 1.5em;
     }
+
+h3 {
+    font-family: 'Handlee', cursive;
+    font-size: 2em;
+    color: #cff2e4;
+    padding-bottom: 0em;
+    margin-bottom: 0em;
+}
 
 #pattern h1 {
     font-size: 4em;
