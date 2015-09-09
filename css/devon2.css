@@ -1,0 +1,103 @@
+html{
+    font-size: 18px;
+    }
+
+/*normal link*/
+a:link {
+    color: #c6c72e;
+}
+
+/*visited link*/
+a:visited {
+ color: #c6c72e;
+}
+
+/*when mouse is over link*/
+a:hover {
+    color: #f97b59;
+    text-decoration: none;
+}
+
+/*when link is clicked*/
+a:active {
+    color: #f97b59;
+}
+
+
+      body { padding-top: 40px; }
+
+
+.navbar {
+        padding: 20px 0;
+        border-bottom: 0;
+        letter-spacing: 1px;
+        background: 0 0;
+        -webkit-transition: background .5s ease-in-out,padding .5s ease-in-out;
+        -moz-transition: background .5s ease-in-out,padding .5s ease-in-out;
+        transition: background .5s ease-in-out,padding .5s ease-in-out;
+    }
+
+.navbar-brand {
+    font-size: 2em;
+}
+
+
+#devnav {
+    font-family: 'Raleway', sans-serif;
+    font-size: ;
+    text-decoration: none;
+    background-color: none;
+    border-bottom: none;
+    color: #c6c72e;
+    
+}
+ 
+.devnav2 {
+    font-family: 'Raleway', sans-serif;
+    text-decoration: none;
+    background-color: none;
+    border-bottom: none;   
+}
+
+
+#nav {
+    text-align: left;
+    font-family: 'Reenie Beanie', cursive;
+    font-size: 2em;
+    margin-top: .5em;
+    list-style: none;
+    }
+
+
+#nav ul {
+    display: block;
+    list-style: none;
+    }
+
+#nav .active{
+    font-size: 3em;
+    text-decoration: none;
+    }
+
+#title h1 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 4.1em;
+}   
+
+
+#greeting {
+    font-size: 1.2em;
+    font-family: 'Reenie Beanie', cursive;
+    }
+
+
+#title {
+    font-family: 'Raleway', sans-serif;
+    font-size: 4.1em;
+    }
+
+#subtitle {
+    font-family: 'Raleway', sans-serif;
+    font-size: 1.5em;
+    padding-top: 1.5em;
+}
